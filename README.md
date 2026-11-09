@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+AF+MIR+MD;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+AF+MIR" alt="Typing SVG" />
 </a>
@@ -73,7 +71,7 @@
   </a>
 </p>
 
-<p align="center">📞 CONTACT: 03701849710</p>
+</button> align="center">📞 CONTACT: 03701849710</<button>
 
 <br>
 
